@@ -1,0 +1,3 @@
+Pour créer un repository, je dois faire la commande "git clone" dans mon terminal et copier le lien.
+
+Je dois ensuite utiliser la commande git add, git commit et git push
